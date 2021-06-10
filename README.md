@@ -1,6 +1,6 @@
 ### OI
 
--I’m currently working on FNF X SM64JS
+- I’m currently working on FNF X SM64JS
 - I’m currently learning Lua
 - I’m looking to collaborate on FNF X SM64JS
 - I’m looking for help with FNF X SM64JS
